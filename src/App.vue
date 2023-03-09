@@ -26,7 +26,7 @@
     :selectedAnswer="selectedAnswers[index]"
     :correctAnswer="question.options[question.answers.correct-1].content"
     :explanation="question.answers.comment"
-    ></result>
+    ></result> 
   </div>
   </div>
 </template>
